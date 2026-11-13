@@ -5,7 +5,7 @@ navbar_name: "XIAQI(Charchie) LIANG"
 positions:
 - name: MSc Student in Applied Mathematics
 - name: Ecole Polytechnique
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/badge_x.png  # Logo is optional
 
 
 email: "xiaqi.liang[at]polytechnique[dot]edu"
@@ -32,27 +32,26 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Ecole Polytechnique
+  logo: /assets/images/badges/badge_x.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+    MSc Applied Mathematics and Statistics
+  date: Sep. 2026 - present
+- name: Imperial College London
+  logo: /assets/images/badges/badge_imperial.png
+  position: MSci Mathematics
+  date: Oct. 2022 - Jul. 2026
+
+experience:
+- name: HEC Paris
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: Research Assistant
+  date: Sep. 2025 - Present
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
-
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+#awards:
+#- name: Award Name 2
+# date: 2024
+#- name: Award Name 1 
+#  date: 2021
+#- name: A quick brown fox jumps over the lazy dog and runs away award
+#  date: 2021

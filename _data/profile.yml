@@ -1,14 +1,14 @@
-primary_name: "Your Name"
-secondary_name: ""
+primary_name: "Xiaqi(Charchie)"
+secondary_name: "Liang"
 navbar_name: "Your Name"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: MSc Applied Mathematics and Statistics
+- name: Ecole Polytechnique
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "xiaqi.liang[at]polytechnique[dot]edu"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id

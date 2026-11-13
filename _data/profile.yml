@@ -1,9 +1,9 @@
 primary_name: "Charchie"
 secondary_name: "Liang"
-navbar_name: "Xiaqi(Charchie) LIANG"
+navbar_name: "XIAQI(Charchie) LIANG"
 
 positions:
-- name: MSc Applied Mathematics and Statistics
+- name: MSc Student in Applied Mathematics
 - name: Ecole Polytechnique
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
